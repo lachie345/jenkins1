@@ -1,0 +1,10 @@
+Started by user [8mha:////4Okuih8rLmaeyk6MYQAZW7V4k6XPbQYRE4ofT+GYvSkRAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgZu/dLi1CL9xJTczDwAfXVmD8AAAAA=[0msai
+Running as SYSTEM
+Building remotely on [8mha:////4C7eEpNsViINSVIiH8CSO/slF8QkUf/+vcPD8/BdMabqAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZB/eT83ILSktQi/eKcxLJUXUMA/V/TPcYAAAA=[0mslave-1 in workspace /home/ubuntu/slave/workspace/jenkins2
+[jenkins2] $ /bin/sh -xe /tmp/jenkins13107007997240035604.sh
++ echo kjdjkfjd,s
++ ls
+file1.txt
++ mkdir jenkins
++ cd jenkins
+Finished: SUCCESS
